@@ -1,0 +1,7 @@
+C:\RAYA REIRAVANZA .R. X PPLG 1\praktik4.2_Raya_X PPLG 1\bin\Debug\praktik4.2_Raya_X PPLG 1.exe.config
+C:\RAYA REIRAVANZA .R. X PPLG 1\praktik4.2_Raya_X PPLG 1\bin\Debug\praktik4.2_Raya_X PPLG 1.exe
+C:\RAYA REIRAVANZA .R. X PPLG 1\praktik4.2_Raya_X PPLG 1\bin\Debug\praktik4.2_Raya_X PPLG 1.pdb
+C:\RAYA REIRAVANZA .R. X PPLG 1\praktik4.2_Raya_X PPLG 1\obj\Debug\praktik4.2_Raya_X PPLG 1.csproj.AssemblyReference.cache
+C:\RAYA REIRAVANZA .R. X PPLG 1\praktik4.2_Raya_X PPLG 1\obj\Debug\praktik4.2_Raya_X PPLG 1.csproj.CoreCompileInputs.cache
+C:\RAYA REIRAVANZA .R. X PPLG 1\praktik4.2_Raya_X PPLG 1\obj\Debug\praktik4.2_Raya_X PPLG 1.exe
+C:\RAYA REIRAVANZA .R. X PPLG 1\praktik4.2_Raya_X PPLG 1\obj\Debug\praktik4.2_Raya_X PPLG 1.pdb
