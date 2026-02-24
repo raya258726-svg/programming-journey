@@ -1,0 +1,18 @@
+h1 {
+  font-family: Arial;
+  color: #899;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #256;
+  font-size: 30px;
+  text-align: right;
+}
+p {
+  font-family: 'Courier New', Courier, monospace;
+  color: #671267;
+  font-size: 25px;
+  text-align: right;
+}

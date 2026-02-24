@@ -1,0 +1,15 @@
+/* selectore universal */
+* {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+}
+/* selectore tag */
+p {
+  color: pink;
+  font-size: 18px;
+}
+/* selectore class */
+.biru {
+  width: 100px;
+  height: 100px;
+}
